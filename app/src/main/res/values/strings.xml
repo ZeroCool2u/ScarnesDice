@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScarnesDice</string>
+    <string name="score_message">Your Score: 0 The Computers Score: 0 Your Turn Score: 0 The Computers Turn Score: 0</string>
+    <string name="button_roll">Roll</string>
+    <string name="button_hold">Hold</string>
+    <string name="button_reset">Reset</string>
+    <string name="diceFaceDesc">Image of a die face</string>
+</resources>
